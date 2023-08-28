@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-CityBuilder-0.1.0";
 const contentToCache = [
-    "Build/Build.loader.js",
-    "Build/Build.framework.js.br",
-    "Build/Build.data.br",
-    "Build/Build.wasm.br",
+    "Build/CityBuilder.loader.js",
+    "Build/CityBuilder.framework.js",
+    "Build/CityBuilder.data",
+    "Build/CityBuilder.wasm",
     "TemplateData/style.css"
 
 ];
